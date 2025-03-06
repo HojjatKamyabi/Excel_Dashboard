@@ -1,5 +1,5 @@
 ![alt text](https://github.com/HojjatKamyabi/Excel_Dashboard/blob/main/Excel_project1.png?raw=true)
-<h1>German Credit Data Dashboard 📊</h1>
+<h1>German Credit Data Dashboard </h1>
 <h3> Overview</h3>
 <p>This project is an interactive Excel dashboard built using German Credit Data, designed to analyze and visualize patterns in credit allocation. It helps explore relationships between age, job type, savings, housing situation, and loan amounts.</p>
 
